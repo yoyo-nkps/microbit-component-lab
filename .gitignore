@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# MicroPython 韌體請自行下載（見 README）
+firmware/
+*.hex
